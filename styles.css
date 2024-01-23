@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+        background-color:rgb(219, 245, 255);
+        width: 90%;
+        margin-left: 50px;
+        padding: 50px;
+       
+    }
+
+    .Introduction { 
+        text-align: justify; 
+        padding: 50px;
+        font-size: 1.35em;
+        margin-right:50px;
+        margin-top: -20px;
+        background-color: white;border-bottom-right-radius:80px;
+        border-top-right-radius: 80px;
+        
+        
+    }
+
+    #tips{
+        background-color: white;
+        margin-right:50px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        border-bottom-right-radius: 80px;
+        border-top-right-radius: 80px;
+        font-size: 1.3em
+    }
+
+    .Books-Read{
+        background-color: white;
+        margin-right:50px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        border-bottom-right-radius: 80px;
+        border-top-right-radius: 80px;
+        font-size: 1.35em;
+        
+    }
+
+    img{
+      border-bottom-right-radius: 50px;
+      border-bottom-left-radius: 50px;
+      align-items: center;
+
+
+    }
+
+    .Big-Heading{
+        font-size:1.5em
+    }
+
+
+
+
+  
